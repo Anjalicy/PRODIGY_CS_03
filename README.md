@@ -21,7 +21,7 @@ This is a Python tool that evaluates the strength of a password based on several
 
 1. Clone this repository:
 
-        git clone https://github.com/your-username/password-strength-tool.git
+        git clone https://github.com/Anjalicy/PRODIGY_CS_03.git
         cd password-strength-tool
 2.Run the Python script:
 
